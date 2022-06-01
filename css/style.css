@@ -1,0 +1,16 @@
+:focus{
+    border-color: #ccc !important;
+    box-shadow: none !important;
+}
+.main-top {
+    height: fit-content;
+    background: #242f39;
+    padding: 20px 0;
+}
+.main-top .image img {
+    width: 180px;
+    height: auto;
+}
+.hd-search{
+    display: none;
+}

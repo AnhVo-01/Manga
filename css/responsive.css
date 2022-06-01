@@ -1,0 +1,9 @@
+@media (max-width: 992px){
+    .top-search{
+        /* padding-top: 20px; */
+        display: none;
+    }
+    .hd-search{
+        display: block;
+    }
+}
